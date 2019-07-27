@@ -9,7 +9,7 @@ if switch等等......
 
 for while do...while
 
-#dart学习第三天
-##函数，函数传参
+# dart学习第三天
+## 函数，函数传参
 
 void main() int main(inta,intb)
